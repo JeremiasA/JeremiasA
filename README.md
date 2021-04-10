@@ -18,15 +18,17 @@ quisiera alcanzar un alto nivel conversacional.
 Tengo el conocimiento provisto por mi carrera técnica: redes, hardware, entorno windows, ubuntu básico, office, etc.
 
 <strong>CONOCIMIENTOS ACTUALES sobre desarrollo web:</strong>
+- Node.js (express, mongoose, ejs)
+- MongoDB
 - HTML/CSS (responsive: flex, grid)
-- JAVASCRIPT
+- JAVASCRIPT - AJAX
 - APIS
-- SQL, mySQL
-- GIT
+- Programación funcional
+- Control de versiones : GIT & GitHub
 - Otros: Photoshop y corelDraw.
 
 <strong>CURSANDO:</strong>
-- Node.js
 - Authentication
 - Patrones de diseño
 - Metodologías
+- SQL
