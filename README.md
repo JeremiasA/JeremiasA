@@ -2,6 +2,6 @@
 
 Mi curriculum: https://jeremiasa.github.io/curriculum/
 
-Whatsapp: +54 3466493230
+Whatsapp: +54 3416064137
 
 Mail: jeremiasamestoy@gmail.com
